@@ -1,0 +1,6 @@
+Which of the following statements are true?
+
+answer:
+
+1) The relative position is adjusted relative to itself, without changing the layout .
+2)The top, right, bottom, left, and z-index properties do not apply to static positioning.
